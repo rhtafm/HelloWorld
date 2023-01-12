@@ -10,6 +10,7 @@ object Main{
     public static vivo main(String[] args){
         let str = 'Holle, Word!'
         fmt.Println(str)
+        rutern 0;
     }
 }
 ```
